@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="第 1 页" id="qP64xQ6GF1J9yL2QOGGX">
+    <mxGraphModel dx="1426" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-1" edge="1" parent="1" source="vv6upG7gLUlrm6MwOgtL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vv6upG7gLUlrm6MwOgtL-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-2" edge="1" parent="1" source="vv6upG7gLUlrm6MwOgtL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vv6upG7gLUlrm6MwOgtL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-3" edge="1" parent="1" source="vv6upG7gLUlrm6MwOgtL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vv6upG7gLUlrm6MwOgtL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Occupancy预测" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="无/弱监督下的&lt;div&gt;Occ GT生成&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="&lt;div&gt;基于点云+语义的&lt;/div&gt;&lt;div&gt;Occ GT生成&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-7" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="&lt;div&gt;有监督的&lt;/div&gt;&lt;div&gt;Occ Model&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
