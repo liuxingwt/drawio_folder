@@ -19,7 +19,7 @@
         <mxCell id="Brdf7y3AgF76uG0uZs_b-20" edge="1" parent="1" source="vv6upG7gLUlrm6MwOgtL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Brdf7y3AgF76uG0uZs_b-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vv6upG7gLUlrm6MwOgtL-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="无/弱监督方式&lt;div&gt;Occ GT生成&lt;/div&gt;" vertex="1">
+        <mxCell id="vv6upG7gLUlrm6MwOgtL-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="自/弱监督方式&lt;div&gt;Occ GT生成&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="90" x="220" y="270" as="geometry" />
         </mxCell>
         <mxCell id="Brdf7y3AgF76uG0uZs_b-24" edge="1" parent="1" source="vv6upG7gLUlrm6MwOgtL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Brdf7y3AgF76uG0uZs_b-1">
